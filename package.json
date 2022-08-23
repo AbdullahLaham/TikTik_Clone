@@ -6,10 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "start": "sanity start",
-    "test": "sanity check",
-    "build": "sanity build public -y"
+    "lint": "next lint"
   },
   "dependencies": {
     "@react-oauth/google": "^0.2.6",
