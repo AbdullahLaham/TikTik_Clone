@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: false,
   trailingSlash: true,
   env: {
-    base_url: 'http://localhost:3000',
+    base_url: 'https://tik-tik-clone-lemon.vercel.app/',
   },
   swcMinify: true,
   images: {
